@@ -22,3 +22,4 @@ alcohol - the percent alcohol content of the wine
 
 quality - output variable (based on sensory data, score between 0 and 10)
 
+References-https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
